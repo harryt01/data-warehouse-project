@@ -38,8 +38,5 @@ GO
 CREATE SCHEMA silver;
 GO
 
-<<<<<<< HEAD
 CREATE SCHEMA gold;
-=======
-CREATE SCHEMA gold;
->>>>>>> b76ae5f833f70f1bb0e896f7297941c63674524b
+
